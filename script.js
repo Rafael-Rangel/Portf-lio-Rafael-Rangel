@@ -15,14 +15,14 @@ $(document).ready(function(){
          $('html').animate({scrollTop: 0});
      });
 
-     var typed = new Typed(".typing", {
-         strings:["Front-End", "Desenvolvedor Web", "Freelancer"],
+    var typed = new Typed(".typing", {
+         strings:["Front-End", "Dev Web", "Freelancer"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Front-End", "Desenvolvedor Web", "Freelancer"],
+        strings:["Front-End", "Dev Web", "Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
