@@ -416,7 +416,9 @@ section .title::after{
 }
 /*  sessão Contato  */
 
-
+a{
+text-decoration:none
+}
 
 .contact .title::after{
     content: "Fale comigo";
