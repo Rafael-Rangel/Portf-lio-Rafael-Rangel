@@ -416,12 +416,10 @@ section .title::after{
 }
 /*  sessão Contato  */
 
- a:visited {
+ .linkss{
 	text-decoration: none
-	}	
-a:active {
-	text-decoration: none
-	}
+}
+	
 
 
 .contact .title::after{
