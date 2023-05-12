@@ -416,9 +416,13 @@ section .title::after{
 }
 /*  sessão Contato  */
 
-a{
-text-decoration:none
-}
+ a:visited {
+	text-decoration: none
+	}	
+a:active {
+	text-decoration: none
+	}
+
 
 .contact .title::after{
     content: "Fale comigo";
